@@ -1,0 +1,20 @@
+{
+  "data": {
+    "LT001": [
+      {
+        "employee_id": 1111,
+        "value": 1000000
+      },
+      {
+        "employee_id": 1112,
+        "value": 1000000
+      }
+    ],
+    "LT002": [
+      {
+        "employee_id": 1112,
+        "value": 9000000
+      }
+    ]
+  }
+}
